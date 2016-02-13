@@ -2,4 +2,8 @@
 
 from django.contrib import admin
 
-# Create your classes here.
+# from .models import Example
+
+# @admin.register(Example)
+# class ExampleAdmin(admin.ModelAdmin):
+#     pass

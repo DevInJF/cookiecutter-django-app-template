@@ -2,4 +2,10 @@
 
 from django.test import TestCase
 
-# Create your tests here.
+
+# class ExampleTestCase(TestCase):
+
+#     def test_something(self):
+#         r = self.client.get('/')
+
+#         self.assertEqual(r.status_code, 200)

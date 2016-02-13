@@ -3,5 +3,5 @@
 from django.apps import AppConfig
 
 
-class BoardConfig(AppConfig):
+class {{ cookiecutter.app_name }}Config(AppConfig):
     name = '{{ cookiecutter.friendly_app_name }}'
