@@ -1,0 +1,4 @@
+{
+    "friendly_app_name": "App Name",
+    "app_name": "{{ cookiecutter.friendly_app_name|lower|replace(' ', '_') }}"
+}
